@@ -1,1 +1,1 @@
-print("this is a programming language")
+print("Hello, World!")
