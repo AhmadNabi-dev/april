@@ -1,0 +1,1 @@
+print("karim khan wazir")
